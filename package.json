@@ -2,7 +2,7 @@
   "name": "ke",
   "version": "0.1.0",
   "private": true,
-  "homepage": "ashimux.github.io",
+  "homepage": "ashimux.github.io/kingdomEcchi",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
